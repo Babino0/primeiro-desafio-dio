@@ -1,4 +1,4 @@
 package br.com.desafio.dio.dominio;
 
-public abstract class Conteudo  {
+public class Curso extends Conteudo{
 }
